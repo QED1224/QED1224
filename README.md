@@ -8,21 +8,19 @@ I started playing Toontown in 2005 as *Super Fireball Thunderroni*, a brown dog 
 
 (I've documented this time period [in some detail here](https://github.com/QED1224/Toontown-Resources/blob/master/Timeline/README.md).) 
 
+I took a year off between 2007 and 2008, and then returned as *Glitch*[^1]. This toon was among the most unique characters ever created: I made it after discovering the single most-impactful glitch in Toontown history[^2].
+
 ### Toontown Offline (2014 - 2015)
+
+After Toontown Online closed in 2013, I became an active contributor to the first two releases of [Toontown Offline](https://toontownoffline.net/). In particular, I 
+
+- Performed the original port of the game to macOS.
+- Created the `~tp`, `~max`, and `~cogSuit` commands (among many others).
+- Devised and contributed the first implementations of custom SOS cards and self-applicable Toon-up.
 
 ### Toontown Rewritten (2015 -)
 
-<!--
-**QED1224/QED1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've played TTR off and on (mostly off) since 2015 as *Qed The Third*. During this time, I also co-authored the [`Toontown-Resources` guide](https://github.com/QED1224/Toontown-Resources), which notably introduced the terms `wakeupChance` and "attack mismatches" into the Toontown vernacular.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[^1]: My name was revoked shortly after I created the character and I became simply *Toon* until 2013, Toontown's final year, when I successfully requested a name change to *Reign*.
+[^2]: [Rental Cannon Extra Laff](https://github.com/QED1224/Toontown-Resources/blob/master/Timeline/README.md#rental-cannon-extra-laff). I believe that I was the only person to know of this glitch during the life of TTO, and I was told via email that I was reported so much that they ignore-listed my account.
