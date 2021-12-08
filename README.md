@@ -8,7 +8,7 @@ I started playing Toontown in 2005 as *Super Fireball Thunderroni*, a brown dog 
 
 (I've documented this time period [in some detail here](https://github.com/QED1224/Toontown-Resources/blob/master/Timeline/README.md).) 
 
-I took a year off between 2007 and 2008, and then returned as *Glitch*[^1]. This toon was among the most unusual characters ever created; I made it after discovering the rarest glitch in Toontown history[^2].
+I took a year off between 2007 and 2008, and then returned as *Glitch*[^1]. This toon was among the most unusual characters ever created: I made it after discovering the (arguably) rarest glitch in Toontown history[^2].
 
 ### Toontown Offline (2014 - 2015)
 
